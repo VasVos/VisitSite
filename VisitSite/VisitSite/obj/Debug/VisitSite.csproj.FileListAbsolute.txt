@@ -1,6 +1,7 @@
 C:\My Files\repositories\Visit-Site\VisitSite\VisitSite\bin\VisitSite.dll.config
 C:\My Files\repositories\Visit-Site\VisitSite\VisitSite\bin\VisitSite.dll
 C:\My Files\repositories\Visit-Site\VisitSite\VisitSite\bin\VisitSite.pdb
+C:\My Files\repositories\Visit-Site\VisitSite\VisitSite\bin\Antlr3.Runtime.dll
 C:\My Files\repositories\Visit-Site\VisitSite\VisitSite\bin\Microsoft.Web.Infrastructure.dll
 C:\My Files\repositories\Visit-Site\VisitSite\VisitSite\bin\Newtonsoft.Json.dll
 C:\My Files\repositories\Visit-Site\VisitSite\VisitSite\bin\System.Net.Http.Formatting.dll
@@ -8,10 +9,12 @@ C:\My Files\repositories\Visit-Site\VisitSite\VisitSite\bin\System.Web.Helpers.d
 C:\My Files\repositories\Visit-Site\VisitSite\VisitSite\bin\System.Web.Http.dll
 C:\My Files\repositories\Visit-Site\VisitSite\VisitSite\bin\System.Web.Http.WebHost.dll
 C:\My Files\repositories\Visit-Site\VisitSite\VisitSite\bin\System.Web.Mvc.dll
+C:\My Files\repositories\Visit-Site\VisitSite\VisitSite\bin\System.Web.Optimization.dll
 C:\My Files\repositories\Visit-Site\VisitSite\VisitSite\bin\System.Web.Razor.dll
 C:\My Files\repositories\Visit-Site\VisitSite\VisitSite\bin\System.Web.WebPages.Deployment.dll
 C:\My Files\repositories\Visit-Site\VisitSite\VisitSite\bin\System.Web.WebPages.dll
 C:\My Files\repositories\Visit-Site\VisitSite\VisitSite\bin\System.Web.WebPages.Razor.dll
+C:\My Files\repositories\Visit-Site\VisitSite\VisitSite\bin\WebGrease.dll
 C:\My Files\repositories\Visit-Site\VisitSite\VisitSite\bin\Newtonsoft.Json.xml
 C:\My Files\repositories\Visit-Site\VisitSite\VisitSite\bin\System.Net.Http.Formatting.xml
 C:\My Files\repositories\Visit-Site\VisitSite\VisitSite\bin\System.Web.Helpers.xml
