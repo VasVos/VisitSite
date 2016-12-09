@@ -1,14 +1,16 @@
-﻿@Styles.Render("~/Content/MainImages")
+﻿
+@Styles.Render("~/Content/MainImages")
 <div id="images">
     <div class="image-block">
         <img class="sequencer" src="~/Content/Images/main/0.jpeg">
     </div>
-    <div class="panel-one">
+    <div class="panel-one block">
         <h2>Info</h2>
         <ul class="list-menu">
             <li>Новости</li>
             <li>Статьи и интервью</li>
             <li>Семинары</li>
+            <li>@Html.ActionLink("О нас", "About")</li>
         </ul>
     </div>
 </div>
