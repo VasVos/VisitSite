@@ -16,3 +16,21 @@ body .block{
     border: 1px ridge #30200e;
 }
 
+body .header, body .footer{
+    height:45px;
+    background-color: #141e1f;
+    left: 0px;
+    position: fixed;
+    width: 100%;
+    margin: auto;
+    z-index:1;
+}
+
+body .header{
+    top:0px;
+}
+
+body .footer{
+    bottom: 0px;
+}
+
