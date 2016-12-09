@@ -27,6 +27,5 @@ C:\My Files\repositories\Visit-Site\VisitSite\VisitSite\bin\System.Web.Razor.xml
 C:\My Files\repositories\Visit-Site\VisitSite\VisitSite\bin\System.Web.WebPages.xml
 C:\My Files\repositories\Visit-Site\VisitSite\VisitSite\bin\System.Web.WebPages.Deployment.xml
 C:\My Files\repositories\Visit-Site\VisitSite\VisitSite\bin\System.Web.WebPages.Razor.xml
-C:\My Files\repositories\Visit-Site\VisitSite\VisitSite\obj\Debug\VisitSite.csprojResolveAssemblyReference.cache
 C:\My Files\repositories\Visit-Site\VisitSite\VisitSite\obj\Debug\VisitSite.dll
 C:\My Files\repositories\Visit-Site\VisitSite\VisitSite\obj\Debug\VisitSite.pdb
