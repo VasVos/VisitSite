@@ -21,7 +21,7 @@ div#images {
     margin-right: auto;
 }
 
-img {
+div#images img {
     min-height: 100%;
     width: auto;
     position: fixed;
