@@ -1,0 +1,23 @@
+﻿body {
+}
+
+.about-content {
+    width: 100%;
+    margin-top: 50px;
+    height: 100%;
+}
+
+    .about-content .image-container {
+        width: 20%;
+        float: left;
+    }
+
+        .about-content .image-container img{
+            width: 100%;
+            
+        }
+
+    .about-content .text-content {
+        width: 75%;
+        float: right;
+    }

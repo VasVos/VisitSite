@@ -18,7 +18,8 @@ namespace VisitSite
                 "~/Scripts/src/mainPage.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                "~/Content/main.css",
+                "~/Content/styles/main.css",
+                "~/Content/styles/about.css",
                 "~/Content/styles/common.css"));
             bundles.Add(new StyleBundle("~/Content/MainImages").Include(
                 "~/Content/Images/main/*.jpeg"));

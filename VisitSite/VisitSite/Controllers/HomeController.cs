@@ -1,11 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.Mvc;
+﻿using System.Web.Mvc;
+using VisitSite.Extensions.Filters;
 
 namespace VisitSite.Controllers
 {
+    [HomeControllerFilter]
     public class HomeController : Controller
     {
         //
@@ -17,6 +15,11 @@ namespace VisitSite.Controllers
         }
 
         public ActionResult About()
+        {
+            return View();
+        }
+
+        public ActionResult Info()
         {
             return View();
         }
